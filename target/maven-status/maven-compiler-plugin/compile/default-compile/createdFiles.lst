@@ -1,0 +1,14 @@
+org\example\ElasticsearchConfig.class
+org\example\SpringDataCacheTest$1.class
+org\example\SpringDataCacheTest.class
+org\example\ProductDao.class
+org\example\Main$1.class
+org\example\CacheConfig.class
+org\example\Product.class
+org\example\CacheConfig$1.class
+org\example\CaffeineCacheConfig.class
+org\example\DubboProviderServiceImpl.class
+org\example\Main.class
+org\example\CacheConfig$CacheSpec.class
+org\example\DubboProviderService.class
+org\example\SpringDataEsTest.class
